@@ -7,7 +7,7 @@ After starting the game, the first player will be able to place their ships. By 
   
 ![Placing screen](https://i.ibb.co/bN2MDJ6/screen2.png)  
   
-After all the ships were placed, game will start automatically. Click on any square to reveal what's there. If square is green, your rival's ships is located there, but you did not open it all. If square is red, you drowned rival's ship. If square is gray, there's nothing. If you missed, turn is given to your rival.  
+After all the ships were placed, game will start automatically. Click on any square to reveal what's there. If square is green, your rival's ships is located there, but you did not drown it all. If square is red, you drowned entire rival's ship. If square is gray, there's nothing. If you missed, turn is given to your rival.  
   
 ![Playing screen](https://i.ibb.co/VpJmFXP/screen4.png)  
    
