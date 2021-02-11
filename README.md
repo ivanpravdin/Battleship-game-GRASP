@@ -13,4 +13,16 @@ After all the ships were placed, game will start automatically. Click on any squ
    
 Player who drowned all of the ships of their rival wins.  
   
-![Winning screen](https://i.ibb.co/0ssgJW7/screen5.png) 
+![Winning screen](https://i.ibb.co/0ssgJW7/screen5.png)   
+
+# Code  
+Game consists of 6 classes and 1 additional class for Desktop launcher.
+Classes included:
+- BattleshipGame.java (Main class)  
+- MainMenuScreen.java (Main menu sreen class)  
+- GameScreen.java (Game screen class)  
+- Field.java (Class for creating Field object)  
+- Player.java (Class for creating Player object)  
+- Ship.java (Class for creating Ship class)  
+  
+- DesktopLauncher.java (LINGDX generated class for Desktop Launcher)  
